@@ -1,0 +1,1 @@
+{'Anne': 1, 'Professor': 0, 'Kyrie': 0, 'James': 0, 'Trump': 0}
